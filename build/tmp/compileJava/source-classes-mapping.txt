@@ -1,2 +1,0 @@
-com/jocampo/Paint.java
- com.jocampo.Paint
